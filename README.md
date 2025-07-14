@@ -1,5 +1,5 @@
 # title
-This is a sample 
+This is a sample.
 
 # About me
-Recently completed a full stack web development.
+Recently I have completed a full stack web development.
